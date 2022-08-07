@@ -2,7 +2,7 @@
   "name": "remove-powered",
   "version": "1.0.0",
   "description": "Removes X-Powered-By header from Express.js servers",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
