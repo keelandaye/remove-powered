@@ -1,6 +1,6 @@
 {
   "name": "@keels/remove-powered",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Removes X-Powered-By header from Express.js servers",
   "repository": {
     "type": "git",
