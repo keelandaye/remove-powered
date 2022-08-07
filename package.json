@@ -1,0 +1,23 @@
+{
+  "name": "remove-powered",
+  "version": "1.0.0",
+  "description": "Removes X-Powered-By header from Express.js servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Keelan Daye",
+  "license": "MIT",
+  "devDependencies": {
+    "editorconfig": "^0.15.3",
+    "eslint": "^8.21.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.3",
+    "supertest": "^6.2.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^5.1.1"
+  }
+}
