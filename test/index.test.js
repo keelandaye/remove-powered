@@ -1,6 +1,6 @@
 const express = require('express');
 const request = require('supertest');
-const rp = require('./index');
+const rp = require('../index');
 
 describe('removePowered', () => {
 	let app;
