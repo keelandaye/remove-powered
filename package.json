@@ -1,5 +1,5 @@
 {
-  "name": "remove-powered",
+  "name": "@keels/remove-powered",
   "version": "1.0.0",
   "description": "Removes X-Powered-By header from Express.js servers",
   "main": "src/index.js",

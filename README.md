@@ -5,7 +5,7 @@ This package provides middleware for Express.js to remove the X-Powered-By heade
 ## Installation
 
 ```bash
-npm install keels/remove-powered --save
+npm install @keels/remove-powered --save
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install keels/remove-powered --save
 Use this package as Express middleware.
 
 ```
-const rp = require('keels/remove-powered');
+const rp = require('@keels/remove-powered');
 
 app.use(rp.removePowered);
 ```
